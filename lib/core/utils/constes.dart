@@ -1,0 +1,9 @@
+const String signUpRouteName = "signUp";
+const String homePageRouteName = "HomePage";
+const String signInRouteName = "signIn";
+const String bottomBarRouteName = "bottomNavigationBar";
+const String prodactDetailsRouteName = "prodactDetails";
+const String addNewProdactRouteName = "addNewProdact";
+const String collectionName = 'Prodacts';
+const String usersCollectionName = 'Users';
+const String cartCollectionName = "Cart";

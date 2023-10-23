@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974381490541",
+    "project_id": "stytore",
+    "storage_bucket": "stytore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974381490541:android:b00a9b026bee15f8817a64",
+        "android_client_info": {
+          "package_name": "com.example.stytore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974381490541-akvmrl0su0i8efd6sjp6u59iss6d5es3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDtlhAw0w_opMwU8ELa64RIUqgfjAxhrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974381490541-akvmrl0su0i8efd6sjp6u59iss6d5es3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
